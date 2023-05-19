@@ -1,6 +1,6 @@
 # babashka-dev-builds
 
-Install a SNAPSNOT release using:
+Install a SNAPSHOT release using:
 
 ```
 $ bash <(curl https://raw.githubusercontent.com/babashka/babashka/master/install) --version 0.7.7-SNAPSHOT --dir .
